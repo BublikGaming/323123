@@ -31,3 +31,23 @@ let d=2
 let sum1 = c + d;
 let result = sum1;
 console.log(`Результат: ${result}`);
+/#6/
+let a1 = 10, b2 = 2, c1 = 5;
+let result2 = a1 + b2 + c1;
+console.log(`Результат вычислений: ${result2}`);
+/#7/
+let str1 = 'Hello world!';
+console.log(str1);
+/#8/
+str3 = 'Hello';
+str4 = 'World!';
+console.log(str3,str4);
+/#9/
+let name = 'Daniel!';
+let privet = 'Hi'
+console.log(privet,name);
+/#10/
+let hour = 14 ,minute = 15,second = 52;
+console.log(hour,minute,second);
+
+
