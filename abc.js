@@ -25,3 +25,9 @@ console.log(`Сумма: ${sum}`);
 console.log(`Разность ${dif}`);
 console.log(`Умножение ${um}`);
 console.log(`Деление: ${def}`);
+/#5/
+let c=15
+let d=2
+let sum1 = c + d;
+let result = sum1;
+console.log(`Результат: ${result}`);
